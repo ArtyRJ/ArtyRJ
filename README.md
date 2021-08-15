@@ -2,6 +2,7 @@
 - I’m interested in mastering at least one programming language, and looking to better understand languages I have already worked with.
 - I’m currently interested in learning python.
 - I’m not quite yet looking to collaborate.
+- Currently the languages I have worked with are Java, Javascript, .Net, C#, SQL, RPGLE, HTML, CSS, PHP, and XML.
 
 
 <!---
